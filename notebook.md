@@ -2,6 +2,7 @@
 * :+1: Attended lecture
 * :+1: Installed Ubuntu Multipass
 * :+1: Read the section in Cloud Computing about Data Centers
+* ![Construction]: Week 2 assignment
  
 
 # Week Mon 01/13/2020 - 01/19/2020
