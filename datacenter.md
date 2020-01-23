@@ -1,4 +1,4 @@
-![Construction]
+![Construction](images/construction.png)
 
 # Datacenter
 
