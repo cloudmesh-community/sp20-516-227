@@ -1,5 +1,3 @@
-![Construction](images/construction.png)
-
 # Datacenter
 
 ## E.Datacenter.2.b
