@@ -1,18 +1,22 @@
-# banner
+
 from cloudmesh.common.util import banner
-banner('Cloud Computing Week3')
-
-# Heading
 from cloudmesh.common.util import HEADING
-class headingexp():
-    def doit(self):
-        HEADING()
-        print('Cloud Computing Week3')
-
-heading = headingexp()
-heading.doit()
-
-# VERBOSE
 from cloudmesh.common.debug import VERBOSE
-m = {'name': 'Xin'}
-VERBOSE(m)
+
+class ecc1:
+# banner
+    def banner(self):
+        banner('Cloud Computing Week3')
+# Heading
+    def heading(self):
+        HEADING()
+        print('Cloud Computing Week3 heading')
+# VERBOSE
+    def verbose(self,m):
+        VERBOSE(m)
+
+if __name__=="__main__":
+    e1 = ecc1()
+    e1.banner()
+    e1.heading()
+    e1.verbose({'name': 'Xin'})

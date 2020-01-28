@@ -5,11 +5,14 @@ E.Cloudmesh.Common.2
 '''
 from cloudmesh.common.dotdict import dotdict
 
-data = {
-    'name': 'Xin'
-}
 
-data = dotdict(data)
+class ecc2:
+    def dot(self, data):
+        data = dotdict(data)
+        if data.name == 'Xin':
+            print('The name is \'Xin\'')
 
-if data.name == 'Xin':
-    print('The name is \'Xin\'')
+
+if __name__ == "__main__":
+    e2 = ecc2()
+    e2.dot({'name': 'Xin'})

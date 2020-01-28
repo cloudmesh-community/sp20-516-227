@@ -7,8 +7,18 @@ E.Cloudmesh.Common.4
 
 from cloudmesh.common.Shell import Shell
 
-result1 = Shell.execute('ls',['-l', '-a'])
-print(result1)
 
-result2 = Shell.pwd()
-print(result2)
+class ec4:
+    def list(self):
+        result1 = Shell.execute('ls', ['-l', '-a'])
+        print(result1)
+
+    def pwd(self):
+        result2 = Shell.pwd()
+        print(result2)
+
+
+if __name__ == '__main__':
+    e4 = ec4()
+    e4.list()
+    e4.pwd()
