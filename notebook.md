@@ -1,5 +1,11 @@
 # Notebook Xin Gu sp20-516-227
 
+## Week Mon 01/27/2020 - 02/02/2020
+
+* :+1: Read in the book Cloud Computing the chapter about Cloud Architectures
+* :+1: Read Introduction to Python for Cloud Computing the chapter about the Python language
+* :+1: Attended lecture
+
 ## Week Mon 01/20/2020 - 01/26/2020
 * :+1: Attended lecture
 * :+1: Installed Ubuntu Multipass
