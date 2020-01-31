@@ -4,8 +4,7 @@ E.Cloudmesh.Common.3
     Develop a program that demonstrates the use of FlatDict.
 
 '''
-from cloudmesh.common.Flatdict import FlatDict
-
+from cloudmesh.common.FlatDict import FlatDict
 data = {
     'name': 'Xin',
     'address': {
