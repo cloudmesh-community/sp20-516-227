@@ -1,4 +1,8 @@
-# Datacenter
+# Datacenter :o2: title wrong
+
+:o2: no colons in section headers
+
+:o2: punctuation is wron when using citations
 
 ## E.Datacenter.2.a
 
