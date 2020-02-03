@@ -1,10 +1,6 @@
 # Datacenter Xin Gu sp20-516-227
 
-:o2: title wrong
-
-:o2: no colons in section headers
-
-:o2: punctuation is wron when using citations
+:o2: punctuation is wrong when using citations
 
 :o2: please learn markdown, attending eductaional section mandatory
 
