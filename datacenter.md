@@ -6,6 +6,8 @@
 
 :o2: punctuation is wron when using citations
 
+:o2: please learn markdown, attending eductaional section mandatory
+
 ## E.Datacenter.2.a
 
 I have filled the data in the form.
