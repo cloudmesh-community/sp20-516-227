@@ -15,7 +15,7 @@ class Provider:
     def start(self):
         banner(f"start {self.name}")
         os.system(f"multipass start {self.name}")
-        print('\n'
+        print('\n')
 
     def list(self):
         banner("list")
