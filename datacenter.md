@@ -30,7 +30,7 @@ China
 
 China is growing fast in installed renewable capacity. By 2018, China has a total capacity of 728 GW renewable power. In 2019, the installed hydropower, wind power, PV (Photovoltaics), and bio-mass power capacity are expected to grow 2.2%, 14.1, 14.9 and 23.6%, respectively[@227Chinarenewable].
 
-China made up 34% of global investment for renewable energy, about $288.9 billion in 2018 which is about three times the United States' investment. [@227UNEP] With a large amount of investment, innovations and technology development are on a fast track, the renewable power market is expending quickly which greatly reduced the cost of renewable power technology.
+China made up 34% of global investment for renewable energy, about $288.9 billion in 2018 which is about three times the United States' investment [@227UNEP]. With a large amount of investment, innovations and technology development are on a fast track, the renewable power market is expending quickly which greatly reduced the cost of renewable power technology.
 
 Considering China's large demand for energy, coal is still the main source. By 2050, China expected to deduce coal consumption to 30%-50%. As the world's largest population, China is making a great effort in developing renewable energy which will help protect the environment and benefit for generations [@227niweidou_coal]. 
 
