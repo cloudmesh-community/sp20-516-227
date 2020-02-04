@@ -3,6 +3,7 @@
 ## Week Mon 02/03/2020 - 02/10/2020
 
 * :+1: Watched videos for week 4
+* :+1: Attended lecture
 
 ## Week Mon 01/27/2020 - 02/02/2020
 
