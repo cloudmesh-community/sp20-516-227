@@ -1,8 +1,6 @@
-# Artificial Intelligence on AWS
+# AI Powered Speech Analytic with Amazon Connect on AWS sp20-516-227
 
-## AI Powered Speech Analytic with Amazon Connect
-
-### what?
+### Intro
 
 ### AWS solution Components:
 
@@ -41,6 +39,8 @@ Amazon Comprehend Medical is specific for better extracting information from med
     * Topic Modeling
     * Multiple language support
 
+
+
 * <https://aws.amazon.com/comprehend/features/> 
 
 ##### Pricing
@@ -61,62 +61,5 @@ Amazon Translate
 image: AWS solution architecture
 
 ### Use Cases
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Media subtitling and localization
-
-### what?
-
-### How?
-
-### example
-
-## Amazon Personalize
-
-### what?
-
-### How?
-
-### example
-
-## Amazon Forecast
-
-### what?
-
-### How?
-
-### example
-
-## Amazon Textract
-
-### what?
-
-### How?
-
-### example 
-
-## Amazon Rekognition
-
-### what?
-
-### How?
-
-### example
-
-
-References:
 
 * <https://aws.amazon.com/machine-learning/ai-services/>
