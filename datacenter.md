@@ -18,9 +18,9 @@ Take average cost $ 0.075 per kWh for running diesel generator, the yearly cost 
 
 Tidal energy is the energy converted from the tidal force created by sun-moon and earth rotation. Tidal energy could be extracted from the moving masses of water by tidal turbines. There are different tidal energy technology, including building tidal barrages, underwater tidal turbines, tidal fences [@227tidalenergy], and tidal snake [@227seasnake]. Tidal barrages are structures similar to a dam. Electricity can be generated when water goes in and out of the barrage by controlling the sluice gate. Underwater tidal turbines look like wind turbines but underwater, shown in @fig:tidalturbine. Tidal fences are aligned tidal turbines on a fence on the sea bed, and they generate energy when water passes the fence. Tidal snake [@227seasnake] generates electricity when floating on the surface of the sea, shown in @fig:sea-snake.
 
-![Tidal Turbine](images/tidalturbine.gif){#fig:tidalturbine}[@227tidalenergy]
+![Tidal Turbine](images/tidalturbine.gif){#fig:tidalturbine}
 
-![Tidal Snake](images/sea-snake.jpg){#fig:sea-snake} [@227seasnake]
+![Tidal Snake](images/sea-snake.jpg){#fig:sea-snake}
 
 The minimal difference in tidal is 10 feet to produce energy economically. Due to the expensive cost of the tidal energy facility and specific natural condition requirement, tidal energy is not widely used but in the stage of exploring and testing.   
 
