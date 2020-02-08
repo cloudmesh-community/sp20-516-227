@@ -34,11 +34,15 @@ The MeyGen is the world's largest and only commercial multi-turbine array projec
 
 China
 
-China is growing fast in installed renewable capacity. By 2018, China has a total capacity of 728 GW renewable power. In 2019, the installed hydropower, wind power, PV (Photovoltaics), and bio-mass power capacity are expected to grow 2.2%, 14.1, 14.9 and 23.6%, respectively[@227Chinarenewable].
+China is growing fast in installed renewable capacity. By 2019, China has a total installed renewable power capacity of 820 GW, with an increment of 5.8% comparing with 2018 [@227china2019]. @fig:227chinapower2019 shows that in 2019, the installed hydropower, wind power, and solar power capacity grew 5.7%, 10.9%, 26.5%, respectively. By the end of 2019, the total renewable energy, including hydropower, wind power, and solar power, is 1931 GWh [@227china2019].
 
-China made up 34% of global investment for renewable energy, about $288.9 billion in 2018 which is about three times the United States' investment [@227UNEP]. With a large amount of investment, innovations and technology development are on a fast track, the renewable power market is expending quickly which greatly reduced the cost of renewable power technology.
+![Year on Year growth in Power Production 2018-2019 in China](images/2019-Power-YoY.png){#fig:227chinapower2019}
 
-Considering China's large demand for energy, coal is still the main source. By 2050, China expected to deduce coal consumption to 30%-50%. As the world's largest population, China is making a great effort in developing renewable energy which will help protect the environment and benefit for generations [@227niweidou_coal]. 
+From 2010 to first half of 2019, China ranks first with renewable energy investment of $758 billion, which makes up 31% of the global total investment with $288.9 billion in 2018[@227UNEP]. With a large amount of investment, innovations and technology development are on a fast track, the renewable power market is expanding quickly, which significantly reduced the cost of renewable power technology.
+
+Considering China's high demand for energy, thermal energy is still the main source including coal, gas, oil, and biomass (69% in 2019), shown in @fig:227chinaelmix. Among all thermal sources, coal takes large share. By 2050, China expected to deduce coal consumption to 30%-50%. As the world's largest population, China is making a great effort in developing renewable energy, which will help protect the environment and benefit generations [@227niweidou_coal]. 
+
+![China's Electricity Mix 2019](images/2019-el-mix.png){#fig:227chinaelmix}
 
 ## E.Datacenter.8
 
