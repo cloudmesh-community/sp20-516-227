@@ -11,6 +11,7 @@
 
 * :+1: Watched videos for week 4
 * :+1: Attended lecture
+* :+1: Did assignment for multipass Provider.py
 * :+1: Working on Chapter
 * :+1: Updated datacenter.md
 * :+1: Installed book manager and made proceeding epub book 
