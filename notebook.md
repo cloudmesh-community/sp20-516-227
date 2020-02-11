@@ -1,11 +1,19 @@
 # Notebook Xin Gu sp20-516-227
 
-## Week Mon 02/03/2020 - 02/10/2020
+## Week Mon 02/10/2020 - 02/17/2020
 
 * :+1: Watched videos for week 4
 * :+1: Attended lecture
 
-## Week Mon 01/27/2020 - 02/02/2020
+## Week Mon 02/02/2020 - 02/9/2020
+
+* :+1: Watched videos for week 4
+* :+1: Attended lecture
+* :+1: Working on Chapter
+* :+1: Updated datacenter.md
+* :+1: Installed book manager and made proceeding epub book 
+
+## Week Mon 01/27/2020 - 02/01/2020
 
 * :+1: Read in the book Cloud Computing the chapter about Cloud Architectures
 * :+1: Read Introduction to Python for Cloud Computing the chapter about the Python language
