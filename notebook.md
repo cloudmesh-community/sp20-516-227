@@ -5,7 +5,6 @@
 * :+1: Watched videos for week 4
 * :+1: Attended lecture
 * :+1: Corrected and updated datacenter.md
-* :+1: Did assignment for multipass Provider.py
 * :+1: Keep working on chapter
 
 ## Week Mon 02/02/2020 - 02/9/2020
