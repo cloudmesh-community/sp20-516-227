@@ -1,12 +1,17 @@
 # Notebook Xin Gu sp20-516-227
 
+## Week Mon 02/18/2020 - 02/25/2020
+
+
+
 ## Week Mon 02/10/2020 - 02/17/2020
 
 * :+1: Watched videos for week 4
 * :+1: Attended lecture
 * :+1: Corrected and updated datacenter.md
 * :+1: Keep working on chapter
-* :+1: Configured cloudmesh.yaml
+* :+1: Created VM on chameleon
+* :+1: Started working on project proposal
 
 ## Week Mon 02/02/2020 - 02/9/2020
 
