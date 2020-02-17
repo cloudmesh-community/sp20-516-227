@@ -6,6 +6,7 @@
 * :+1: Attended lecture
 * :+1: Corrected and updated datacenter.md
 * :+1: Keep working on chapter
+* :+1: Configured cloudmesh.yaml
 
 ## Week Mon 02/02/2020 - 02/9/2020
 

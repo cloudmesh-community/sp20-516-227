@@ -45,7 +45,13 @@ In Amazon Comprehend Console, you can analyze text with up to 1000 words. Click 
 
 ##### Analysis with Amazon Comprehend Console
 
+Take a short paragrah from an article online [@Verhoeven2020Feb] about travling in vietman as an example. @fig:227AWSComEnti show the analysis result of entities.
 
+![Analysis Result about Entities in Text](images/AWSComEnti.png){#fig:227AWSComEnti}
+
+Result table shows identified words, categories confidence scores in each column. For this example, AWS comprehend successfully identified vietnaness location names.
+
+There are 
 
 #### Amazon Command Line Interface
 
