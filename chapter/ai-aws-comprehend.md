@@ -118,6 +118,3 @@ image: AWS solution architecture
 
 * <https://aws.amazon.com/machine-learning/ai-services/>
 
-```bash
-aws iam create-group --group-name Admins
-```
