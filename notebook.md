@@ -2,7 +2,11 @@
 
 ## Week Mon 02/18/2020 - 02/25/2020
 
-
+* :+1: Attended lecture
+* :+1: Read chapter REST of the Cloud Computing
+* :+1: Keep working on chapter
+* :+1: Keep working on project
+* :+1: Did assignment: start vms in chamelon cloud
 
 ## Week Mon 02/10/2020 - 02/17/2020
 
