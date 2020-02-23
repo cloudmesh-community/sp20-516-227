@@ -10,11 +10,11 @@ Amazon Comprehend medical is good at dealing with unstructured medical records. 
 
 ![Amazon Comprehend Working Mechanism [@227comprehendmech]](images/227AWSComprehend.png){#fig:227AWSComprehend}
 
-When other Amazon AI services work with Amazon Comprehend together, the AI solution will enhance business operation, supervision, and managing. For example, with Amazon Comprehend as one of the critical compartments, Amazon Connect [@227AWSComConn] AI solution can provide more natural, dynamic, and efficient customer services through analyzing voice and chat, the architecture is shown in @fig:227AWSComConn [@227AWSComConnA]. 
+When other Amazon AI services work with Amazon Comprehend together, the AI solution will enhance business operation, supervision, and managing. For example, with Amazon Comprehend as one of the critical compartments, Amazon Connect [@227AWSComConn] AI solution can provide more natural, dynamic, and efficient customer services through analyzing voice and chat, the architecture is shown in @fig:227AWSComConn. 
 
 ![AI Powered Speech Analytics for Amazon Connect Architecture [@227AWSComConnA]](images/227AWSComConn.png){#fig:227AWSComConn}
 
-* Amazon Comprehend Features
+* Amazon Comprehend Features [@227comprehendf]
 
     * Keyphrase Extraction
     * Sentiment Analysis
@@ -36,23 +36,24 @@ When other Amazon AI services work with Amazon Comprehend together, the AI solut
 
 The machine learning model was pre-trained; users do not need to know how to do machine learning, train their model, nor deploy it. AWS fully manages the service, and users only pay for what they used base on the amount of text. 
 
-For NLP detecting default features, pricing is shown in @fig:227AWSComPri [@277comprehendpricing].
+For NLP detecting default features, pricing is shown in @fig:227AWSComPri.
 
 ![Pricing for Natural Language Processing [@277comprehendpricing]](images/227AWSComPri.png){#fig:227AWSComPri}
 
 For Topic Modeling, the first 100 MB is charged at a flat rate of $1.00 per job. $0.004 per MB after 100 MB.
 
 For Custom Comprehend, the total price includes the cost for processing characters in the custom model, model training, and model management.
+
 ```markdown
-    Cost for processing characters:
+Cost for processing characters:
+
+    * Asynchronous classification: $0.0005 per unit
     
-        * Asynchronous classification: $0.0005 per unit
-        
-        * Synchronous classification: $0.0005 per second
-        
-    Cost for model training: $3 per hour
+    * Synchronous classification: $0.0005 per second
     
-    Cost for model management: $0.50 per month
+Cost for model training: $3 per hour
+
+Cost for model management: $0.50 per month
 ```
 
 The Amazon Comprehensive free tier is available for AWS customers for 12 months, starting from the time requiring the Amazon Comprehensive service [@277comprehendpricing].
@@ -231,6 +232,7 @@ aws comprehend detect-sentiment
 * Detecting Syntax
 
     Inspects text for syntax and the part of speech of words in the document.
+    
 ```    
 aws comprehend detect-syntax
                   --text
