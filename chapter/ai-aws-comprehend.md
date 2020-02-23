@@ -59,7 +59,7 @@ The Amazon Comprehensive free tier is available for AWS customers for 12 months,
 
 ### Login to Amazon Comprehend Console
 
-Log in to your Amazon AWS account, search for "comprehend", open the web page <https://console.aws.amazon.com/comprehend/home?region=us-east-1#welcome> for Amazon Comprehend, click "Launch Amazon comprehend", shown in @fig:227AWSComLogin. 
+Log in to your Amazon AWS account, search for "comprehend", open the [web page] (https://console.aws.amazon.com/comprehend/home?region=us-east-1#welcome) for Amazon Comprehend, click "Launch Amazon comprehend", shown in @fig:227AWSComLogin. 
 
 ![Launch Amazon Comprehend](images/227AWSComLogin.png){#fig:227AWSComLogin}
 
@@ -89,7 +89,7 @@ Take a short paragraph from an article online [@227Verhoeven2020Feb] about trave
 
 ### Batch Analysis with Amazon Comprehend Analysis Jobs
 
-Analisis Jobs will let you pull data from AWS S3 buckets and return results in an AWS bucket. It is convenient when you have batches of data with more than 1000 words.
+Analysis Jobs will let you pull data from AWS S3 buckets and return results in an AWS bucket. It is convenient when you have batches of data with more than 1000 words.
 
 #### Create an Analysis Job
 
