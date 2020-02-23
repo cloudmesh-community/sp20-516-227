@@ -136,7 +136,7 @@ Click the name of the analysis job, it will show the detail about it, including 
 
     Please refer to [Cloud Computing](https://laszewski.github.io/book/cloud/), 9.2.11 Boto.
         
-* Other SDKs for different programming languages
+* Other SDKs for different programming languages [@227AWSComDoc]
 
         * AWS SDK for Java
         * AWS SDK for .NET
@@ -146,6 +146,8 @@ Click the name of the analysis job, it will show the detail about it, including 
         * AWS SDK for Go 
         
 ### AWS CLI examples for Amazon Comprehend
+
+Here is the detailed developer document for Amazon Comprehend, [Link](https://docs.aws.amazon.com/comprehend/index.html)
 
 * Detecting Entities
 
