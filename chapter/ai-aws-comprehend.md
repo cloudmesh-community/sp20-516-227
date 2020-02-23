@@ -1,5 +1,7 @@
 # Amazon Comprehend on AWS sp20-516-227 Xin Gu
 
+:o2: reject - does not pass markdown syntax
+
 ## Introduction
 
 Amazon Comprehensive does the analysis of text materials by Natural Language Processing (NLP) and draws insights by identifying domain languages, entities, key phrases, sentiment, syntax, and topic modeling. On Amazon comprehend console, it can process up to 1000 words at a time, while batch text analysis can take in documents saved in AWS S3 buckets. Users can also choose to use AWS Command Line Interface (CLI) or SDKs for different programming languages to interact with Amazon Comprehend server directly, get real-time analysis results or return results into AWS S3 buckets. Amazon Comprehensive can train customized classifiers, then use the trained model to analyze test data. Customized classifiers can best perform and give insights based on customer's specialty and interests [@227comprehendf]. @fig:227AWSComprehend shows the workflow of Amazon Comprehend.
