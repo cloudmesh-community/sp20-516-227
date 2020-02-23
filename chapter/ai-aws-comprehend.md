@@ -12,7 +12,7 @@ When other Amazon AI services work with Amazon Comprehend together, the AI solut
 
 ![AI Powered Speech Analytics for Amazon Connect Architecture](images/227AWSComConn.png){#fig:227AWSComConn}
 
-> Amazon Comprehend Features
+* Amazon Comprehend Features
 
     * Keyphrase Extraction
     * Sentiment Analysis
@@ -30,7 +30,7 @@ When other Amazon AI services work with Amazon Comprehend together, the AI solut
     * Multiple language support
         - The 12 languages, including German, Italian, Japanese, Arabic, English, Portuguese, Korean, Chinese (simplified), Spanish, French, Hindi, and Chinese (traditional), can not only be detected as domain languages but also good for other features.
 
-> Amazon Comprehend Pricing
+* Amazon Comprehend Pricing
 
 The machine learning model was pre-trained; users do not need to know how to do machine learning, train their model, nor deploy it. AWS fully manages the service, and users only pay for what they used base on the amount of text. 
 
@@ -151,11 +151,11 @@ DESCRIPTION
        Inspects text for named entities and returns information about them.
 
 aws comprehend detect-entities
-                  --text <value>
-                  --language-code <value>
+                  --text
+                  --language-code
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```
          
 Example:
@@ -197,11 +197,11 @@ DESCRIPTION
        Detects the key noun phrases found in the text.
 
 aws comprehend detect-key-phrases
-                  --text <value>
-                  --language-code <value>
+                  --text 
+                  --language-code 
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```
 
 *Detecting Language
@@ -211,10 +211,10 @@ DESCRIPTION
        Determines  the dominant language of the input text.
 
 aws comprehend detect-dominant-language
-                  --text <value>
+                  --text
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```
 
 * Detecting Sentiment
@@ -225,11 +225,11 @@ DESCRIPTION
        (POSITIVE , NEUTRAL , MIXED , or NEGATIVE ).
 
 aws comprehend detect-sentiment
-                  --text <value>
-                  --language-code <value>
+                  --text
+                  --language-code
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```
     
 * Detecting Syntax
@@ -239,11 +239,11 @@ DESCRIPTION
        Inspects text for syntax and the part of speech of words in the document.
 
 aws comprehend detect-syntax
-                  --text <value>
-                  --language-code <value>
+                  --text
+                  --language-code
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```        
 
 ### Batch processing with AWS CLI
@@ -252,11 +252,11 @@ Batch processing could take up to 25 documents and significantly improve working
 
 ```shell script
 aws comprehend batch-detect-entities
-                  --text-list <value>
-                  --language-code <value>
+                  --text-list
+                  --language-code
                   [--cli-input-json | --cli-input-yaml]
-                  [--generate-cli-skeleton <value>]
-                  [--cli-auto-prompt <value>]
+                  [--generate-cli-skeleton]
+                  [--cli-auto-prompt]
 ```  
 
 Similarly, there are other commands for batch detecting key-phrases, dominant-language, sentiment, and syntax.
