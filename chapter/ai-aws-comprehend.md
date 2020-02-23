@@ -6,16 +6,16 @@
 
 Amazon Comprehensive does the analysis of text materials by Natural Language Processing (NLP) and draws insights by identifying domain languages, entities, key phrases, sentiment, syntax, and topic modeling. On Amazon comprehend console, it can process up to 1000 words at a time, while batch text analysis can take in documents saved in AWS S3 buckets. Users can also choose to use AWS Command Line Interface (CLI) or SDKs for different programming languages to interact with Amazon Comprehend server directly, get real-time analysis results or return results into AWS S3 buckets. Amazon Comprehensive can train customized classifiers, then use the trained model to analyze test data. Customized classifiers can best perform and give insights based on customer's specialty and interests [@227comprehendf]. @fig:227AWSComprehend shows the workflow of Amazon Comprehend [@227comprehendmech].
 
-Amazon Comprehend medical is good at dealing with unstructured medical records. Amazon Comprehend Medical is specific for better extracting information from medical notes or reports. It can accurately draw information from complex and various types of medical terms, such as dosages, strengths, frequencies, and medications. Amazon Comprehend Medical can connect related medicines with dosages, strengths, and frequencies, which for example, will help reduce the time for an analyst to find the best patient candidates to perform clinical study [@227AWSComMed]. 
+Amazon Comprehend medical is good at dealing with unstructured medical records. Amazon Comprehend Medical is specific for better extracting information from medical notes or reports. It can accurately draw information from complex and various types of medical terms, such as dosages, strengths, frequencies, and medications. Amazon Comprehend Medical can connect related medicines with dosages, strengths, and frequencies, which for example, will help reduce the time for an analyst to find the best patient candidates to perform clinical study [@227AWSComMed].
 
 ```markdown
-![Amazon Comprehend Working Mechanism [@227comprehendmech]](images/227AWSComprehend.png){#fig:227AWSComprehend}
+![Amazon Comprehend Working Mechanism  [@227comprehendmech]](images/227AWSComprehend.png){#fig:227AWSComprehend}
 ```
 
 When other Amazon AI services work with Amazon Comprehend together, the AI solution will enhance business operation, supervision, and managing. For example, with Amazon Comprehend as one of the critical compartments, Amazon Connect [@227AWSComConn] AI solution can provide more natural, dynamic, and efficient customer services through analyzing voice and chat, the architecture is shown in @fig:227AWSComConn [@227AWSComConnA]. 
 
 ```markdown
-![AI Powered Speech Analytics for Amazon Connect Architecture [@227AWSComConnA]](images/227AWSComConn.png){#fig:227AWSComConn}
+![AI Powered Speech Analytics for Amazon Connect Architecture  [@227AWSComConnA]](images/227AWSComConn.png){#fig:227AWSComConn}
 ```
 
 * Amazon Comprehend Features
@@ -34,7 +34,7 @@ When other Amazon AI services work with Amazon Comprehend together, the AI solut
     * Topic Modeling: 
         - Topic modeling organizes documents based on the identified topics, map documents into feature groups. 
     * Multiple language support
-        - The 12 languages, including German, Italian, Japanese, Arabic, English, Portuguese, Korean, Chinese (simplified), Spanish, French, Hindi, and Chinese (traditional), can not only be detected as domain languages but also good for other features.
+        - 12 languages, including German, Italian, Japanese, Arabic, English, Portuguese, Korean, Chinese (simplified), Spanish, French, Hindi, and Chinese (traditional), can not only be detected as domain languages but also good for other features.
 
 * Amazon Comprehend Pricing
 
@@ -43,7 +43,7 @@ The machine learning model was pre-trained; users do not need to know how to do 
 For NLP detecting default features, pricing is shown in @fig:227AWSComPri [@277comprehendpricing].
 
 ```markdown
-![Pricing for Natural Language Processing [@277comprehendpricing]](images/227AWSComPri.png){#fig:227AWSComPri}
+![Pricing for Natural Language Processing  [@277comprehendpricing]](images/227AWSComPri.png){#fig:227AWSComPri}
 ```
 
 For Topic Modeling, the first 100 MB is charged at a flat rate of $1.00 per job. $0.004 per MB after 100 MB.
