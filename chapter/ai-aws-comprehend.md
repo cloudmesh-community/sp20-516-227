@@ -47,9 +47,9 @@ For Custom Comprehend, the total price includes the cost for processing characte
 ```markdown
 Cost for processing characters:
 
-    * Asynchronous classification: $0.0005 per unit
+   Asynchronous classification: $0.0005 per unit
     
-    * Synchronous classification: $0.0005 per second
+   Synchronous classification: $0.0005 per second
     
 Cost for model training: $3 per hour
 
@@ -121,7 +121,7 @@ Click "Create Job". Then the job and status will show as in @fig:227AWSComAJ5. A
 Click the name of the analysis job, it will show the detail about it, including the input and output location. Go to the S3 buckets, download the output.tar.gz file, unzip the .gz file and open by Text Editor. Every identified entity was stored in an dictionary in json format, shown as follows:
 
 ```markdown
-    {"Entities": [{"BeginOffset": 102, "EndOffset": 106, "Score": 0.5592554561638537, "Text": "some", "Type": "QUANTITY"}, {"BeginOffset": 151, "EndOffset": 164, "Score": 0.7462535507655865, "Text": "Ancient Greek", "Type": "OTHER"}, {"BeginOffset": 481, "EndOffset": 494, "Score": 0.9061201846423403, "Text": "Ancient Greek", "Type": "OTHER"}], "File": "Sample.txt", "Line": 1}
+{"Entities": [{"BeginOffset": 102, "EndOffset": 106, "Score": 0.5592554561638537, "Text": "some", "Type": "QUANTITY"}, {"BeginOffset": 151, "EndOffset": 164, "Score": 0.7462535507655865, "Text": "Ancient Greek", "Type": "OTHER"}, {"BeginOffset": 481, "EndOffset": 494, "Score": 0.9061201846423403, "Text": "Ancient Greek", "Type": "OTHER"}], "File": "Sample.txt", "Line": 1}
 ```
  
 ## Amazon Comprehend API
