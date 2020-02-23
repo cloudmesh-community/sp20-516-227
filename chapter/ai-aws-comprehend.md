@@ -309,7 +309,7 @@ For more information, please refer to [Link](https://aws.amazon.com/comprehend/r
 
 * Amazon Comprehend medical is specialized in handling unstructured medical records. It will help to organize and searching medical records efficiently.
 
-    _Here is an introduction about processing unstructured medical data using Amazon Comprehend Medical, [LINK](https://vimeo.com/333817612)_.
+    _Here is an introduction about processing unstructured medical data using Amazon Comprehend Medical, [Link](https://vimeo.com/333817612)_.
 
 
 
