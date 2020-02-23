@@ -147,7 +147,7 @@ Click the name of the analysis job, it will show the detail about it, including 
         
 ### AWS CLI examples for Amazon Comprehend
 
-Here is the detailed developer document for Amazon Comprehend, [Link](https://docs.aws.amazon.com/comprehend/index.html)
+Here is the detailed developer document for Amazon Comprehend, [Link](https://docs.aws.amazon.com/comprehend/index.html).
 
 * Detecting Entities
 
