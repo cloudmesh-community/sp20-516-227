@@ -1,6 +1,16 @@
 # Notebook Xin Gu sp20-516-227
 
-## Week Mon 02/18/2020 - 02/25/2020
+## Week Mon 03/02/2020 - 03/08/2020
+
+* :+1: Attended lecture
+* :+1: updated volume/aws/provider.py for project
+
+## Week Mon 02/24/2020 - 03/01/2020
+
+* :+1: Attended lecture
+* :+1: updated VolumeABC.py for project
+
+## Week Mon 02/17/2020 - 02/23/2020
 
 * :+1: Attended lecture
 * :+1: Read chapter REST of the Cloud Computing
@@ -8,7 +18,7 @@
 * :+1: Keep working on project
 * :+1: Did assignment: start vms in chamelon cloud
 
-## Week Mon 02/10/2020 - 02/17/2020
+## Week Mon 02/10/2020 - 02/16/2020
 
 * :+1: Watched videos for week 4
 * :+1: Attended lecture
