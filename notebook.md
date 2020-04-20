@@ -1,5 +1,35 @@
 # Notebook Xin Gu sp20-516-227
 
+## Week Mon 04/13/2020 - 04/19/2020
+
+* :+1: Attended lecture
+* :+1: Working on multipass provider and pytest, updated create,list,attach
+
+## Week Mon 04/06/2020 - 04/12/2020
+
+* :+1: Attended lecture
+* :+1: updated migrate and sync
+
+## Week Mon 03/30/2020 - 04/05/2020
+
+* :+1: Attended lecture
+* :+1: Updated pytest for aws and fixed bugs
+
+## Week Mon 03/23/2020 - 03/29/2020
+
+* :+1: Attended lecture
+* :+1: Keep working on project
+
+## Week Mon 03/16/2020 - 03/22/2020
+
+* :+1: Attended lecture
+* :+1: Keep working on project
+
+## Week Mon 03/09/2020 - 03/15/2020
+
+* :+1: Attended lecture
+* :+1: Keep working on project
+
 ## Week Mon 03/02/2020 - 03/08/2020
 
 * :+1: Attended lecture
