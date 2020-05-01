@@ -8,7 +8,7 @@
 ## Week Mon 04/20/2020 - 04/26/2020
 
 * :+1: Attended lecture
-* :+1: Working on pytest, readme_source.md
+* :+1: Working on pytest, readme_source.md, created test for add_tag
 
 ## Week Mon 04/13/2020 - 04/19/2020
 
