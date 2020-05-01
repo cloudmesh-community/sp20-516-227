@@ -1,5 +1,15 @@
 # Notebook Xin Gu sp20-516-227
 
+## Week Mon 04/27/2020 - 04/30/2020
+
+* :+1: Attended lecture
+* :+1: Working on readme_source.md, created test for aws and multipass migrate and sync
+
+## Week Mon 04/20/2020 - 04/26/2020
+
+* :+1: Attended lecture
+* :+1: Working on pytest, readme_source.md
+
 ## Week Mon 04/13/2020 - 04/19/2020
 
 * :+1: Attended lecture
